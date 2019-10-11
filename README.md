@@ -62,9 +62,11 @@ The official slack workspace of DSC NSEC is : [DSC NSEC Slack](https://tiny.cc/d
 The channels for Winter Of Code is `winterofcode` and the channel for this project is `dsc-nsec-forum-app-woc2019`. In case of any doubts hit us up on slack and we will get back to you.
 
 #### About the mentors
+### Mentors: 
 
-Aritra Roy Gosthipaty [Slack](https://dscnsec.slack.com/team/UMWJVK9UJ) [Github](https://github.com/ariG23498)
+| Name | Github | Slack
+| -- | -- |
+| Aritra Roy Gosthipaty | [ariG23498](https://github.com/ariG23498) | https://dscnsec.slack.com/team/UMWJVK9UJ |
+| Arnab Chanda | [Arnie09](https://github.com/Arnie09) | https://dscnsec.slack.com/team/UFUP3GABU |
+| Faiz Alam | [faiz276482](https://github.com/faiz276482) | https://dscnsec.slack.com/team/UFT9MNSHE |
 
-Arnab Chanda [Slack](https://dscnsec.slack.com/team/UFUP3GABU) [Github](https://github.com/Arnie09)
-
-Faiz Alam  [Slack](https://dscnsec.slack.com/team/UFT9MNSHE) [Github](https://github.com/faiz276482)
